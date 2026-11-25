@@ -8,7 +8,6 @@ This houses my AP Calculus AB notes that were done for the sake of self-studying
 
 ## Sidenotes
 - Xournal++ can easily convert the `.xopp` into `.pdf`.
-- LibreOffice could do the same with `.rtf`.
 
 ## Select Results (that I find cool)
 TODO
