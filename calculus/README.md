@@ -10,4 +10,6 @@ This houses my AP Calculus AB notes that were done for the sake of self-studying
 - Xournal++ can easily convert the `.xopp` into `.pdf`.
 
 ## Select Results (that I find cool)
-TODO
+
+### Proof that $\lim_{x \to 0} \sin\left(\frac{1}{x}\right)$ doesn't exist.
+![math/calculus/other/Proof that lim_x-_0 sin(1_x) = DNE.rtfd.png](The proof.)
